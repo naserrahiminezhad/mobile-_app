@@ -28,6 +28,20 @@ p {
     padding: 0;
 }
 
+
+.back{
+    text-align: left;
+}
+#btn99{
+padding: 0.5em;
+border-radius: 0.3em;
+color: whitesmoke;
+font-size: 1.5em;
+background: rgb(26, 212, 212);
+cursor: pointer; /*カーソルをポインターの形（かたち）にする*/
+}
+
+
 header {
     margin-top: 8px;
     color: rgba(253, 4, 120, 0.5);
@@ -146,4 +160,5 @@ opacity:1;
         color:aqua;
         font-size: 20px;
     }
+
 }
